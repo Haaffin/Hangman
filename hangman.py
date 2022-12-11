@@ -13,7 +13,7 @@ final_word = ''
 guessed_letters = []
 #current letter being guessed
 current_guess = ''
-#status of the game
+#status of the game. This probably could be cleaner. I just dont want to do it
 status = ''
 mistakes = 0
 #the amount of tries they get
